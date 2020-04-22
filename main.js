@@ -1,3 +1,7 @@
+//DEREK SHUE
+//CMPM 120
+//dshue@ucsc.edu
+
 //POINTS : 25 PTS - Create new art for the explosion, spaceship and rocket assets
 //25 PTS - Create a smaller, faster spaceship worth more points.
 //50 PTS - Create a simultaneous 2-player mode.
